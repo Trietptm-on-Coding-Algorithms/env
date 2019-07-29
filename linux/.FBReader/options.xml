@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="Keys">
+    <option name="Action0" value="search"/>
+    <option name="Action1" value="lineForward"/>
+    <option name="Action10" value="pageForward"/>
+    <option name="Action11" value="toc"/>
+    <option name="Action12" value="pageBackward"/>
+    <option name="Action2" value="nextTOCSection"/>
+    <option name="Action3" value="previousTOCSection"/>
+    <option name="Action4" value="pageBackward"/>
+    <option name="Action5" value="lineForward"/>
+    <option name="Action6" value="lineForward"/>
+    <option name="Action7" value="lineBackward"/>
+    <option name="Action8" value="toggleIndicator"/>
+    <option name="Action9" value="quit"/>
+    <option name="Key0" value="&lt;/&gt;"/>
+    <option name="Key1" value="&lt;Ctrl&gt;+&lt;D&gt;"/>
+    <option name="Key10" value="&lt;Space&gt;"/>
+    <option name="Key11" value="&lt;Tab&gt;"/>
+    <option name="Key12" value="&lt;U&gt;"/>
+    <option name="Key2" value="&lt;Ctrl&gt;+&lt;N&gt;"/>
+    <option name="Key3" value="&lt;Ctrl&gt;+&lt;P&gt;"/>
+    <option name="Key4" value="&lt;Ctrl&gt;+&lt;U&gt;"/>
+    <option name="Key5" value="&lt;D&gt;"/>
+    <option name="Key6" value="&lt;J&gt;"/>
+    <option name="Key7" value="&lt;K&gt;"/>
+    <option name="Key8" value="&lt;M&gt;"/>
+    <option name="Key9" value="&lt;Q&gt;"/>
+    <option name="Number" value="13"/>
+  </group>
+  <group name="Options">
+    <option name="BookPath" value=""/>
+  </group>
+  <group name="Web Browser">
+    <option name="Name" value="Browser"/>
+  </group>
+</config>

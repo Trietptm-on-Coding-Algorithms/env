@@ -1,0 +1,33 @@
+/home/fn/games/roms/nes/Gimmick! (J).nes
+/home/fn/games/ra/cores/nestopia_libretro.so
+Nestopia
+/home/fn/games/roms/snes/hacks/Super Mario World - VIP and Wall Mix (v.1.0).smc
+/home/fn/games/ra/cores/snes9x_libretro.so
+SNES9x
+/home/fn/games/roms/snes/hacks/SMW - VIP1 (T+ENG).smc
+/home/fn/games/ra/cores/snes9x_libretro.so
+SNES9x
+/home/fn/games/roms/gen sms/Wonder Boy in Monster World.bin
+/home/fn/games/ra/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+/home/fn/games/roms/Super Tempo (J).cue
+/home/fn/games/ra/cores/yabause_libretro.so
+Yabause
+/home/fn/games/system/mslug.zip
+/home/fn/games/ra/cores/mame_libretro.so
+MAME 2014
+/home/fn/games/roms/mslug.zip
+/home/fn/games/ra/cores/mame_libretro.so
+MAME 2014
+/home/fn/games/roms/Mischief Makers (U) [!].z64
+/home/fn/games/ra/cores/mupen64plus_libretro.so
+Mupen64plus
+/home/fn/games/roms/Glover (U) [!].z64
+/home/fn/games/ra/cores/mupen64plus_libretro.so
+Mupen64plus
+/home/fn/games/roms/psx/Klonoa - Door to Phantomile [U] [SLUS-00585].ccd
+/home/fn/games/ra/cores/mednafen_psx_libretro.so
+Mednafen PSX
+/home/fn/games/roms/psx/Kotobuki Grand Prix-PSX-PAL.cue
+/home/fn/games/ra/cores/mednafen_psx_libretro.so
+Mednafen PSX

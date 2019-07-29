@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="Colors">
+    <option name="Background" value="14540253" category="ui"/>
+  </group>
+  <group name="Indicator">
+    <option name="Type"/>
+  </group>
+  <group name="LastState">
+    <option name="Paragraph" value="2946" category="state"/>
+    <option name="PositionInBuffer" value="1" category="state"/>
+    <option name="Valid" value="true" category="state"/>
+    <option name="Char"/>
+    <option name="Word"/>
+  </group>
+  <group name="OptionsDialog">
+    <option name="SelectedTab" value="Styles" category="ui"/>
+  </group>
+  <group name="Style">
+    <option name="Code:fontFamily" value="Meslo LG M DZ" category="ui"/>
+    <option name="Cite:fontFamily"/>
+    <option name="Code:bold"/>
+    <option name="Code:fontSize"/>
+    <option name="Definition:fontFamily"/>
+    <option name="Preformatted text:fontFamily"/>
+  </group>
+</config>

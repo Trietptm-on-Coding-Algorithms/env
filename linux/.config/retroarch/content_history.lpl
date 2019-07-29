@@ -1,0 +1,482 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/run/media/fn/FATSO/games/roms/psx/Tomba! (USA)/Tomba! (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/nes/Adventures of Lolo 2 (USA).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/bnes_libretro.so",
+      "core_name": "bnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/md/translations/Dynamite Headdy (J) [c][!] [En by MIJET v20070428].bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/md/DickMovePrevEd.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/nes/Gargoyle's Quest II (USA).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/bnes_libretro.so",
+      "core_name": "bnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/gb/Wario Land 3 (World) (En,Ja).gbc",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/vbam_libretro.so",
+      "core_name": "VBA-M",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/psx/Umihara Kawase Shun - Second Edition (Japan) [SLPS-02549]/Umihara Kawase Shun - Second Edition (Japan) [SLPS-02549].cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/nes/Mega Man (USA).zip#Mega Man (USA).nes",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/bnes_libretro.so",
+      "core_name": "bnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/snes/Super Bomberman (USA).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/bsnes_performance_libretro.so",
+      "core_name": "bsnes",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/md/Gunstar Heroes (USA).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/FATSO/games/roms/md/Ecco the Dolphin (USA, Europe).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/snes/Super Metroid (E) [!].smc",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/snes/Ogre Battle - The March of the Black Queen (U) [!].smc",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_snes_libretro.so",
+      "core_name": "Mednafen bSNES",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/Tomb Raider (USA) (v1.6)/Tomb Raider (USA) (v1.6).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/mame/mslug.zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/fb_alpha_libretro.so",
+      "core_name": "FB Alpha",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/md/Bare Knuckle - Ikari no Tetsuken ~ Streets of Rage (World) (Rev A).zip",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/MEMUP 1TO/FN-NUX/games/roms/psx/MediEvil/MediEvil.cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/snes/Legend of Zelda, The - A Link to the Past (USA).sfc",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_snes_libretro.so",
+      "core_name": "Mednafen bSNES",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/No One Can Stop Mr. Domino (USA)/No One Can Stop Mr. Domino (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/I.Q - Intelligent Qube (USA)/I.Q - Intelligent Qube (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Beetle PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/n64/Kirby 64 - The Crystal Shards (USA).n64",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/Tactics Ogre (USA)/Tactics Ogre (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/SCED-00816,PBPX-95001 Demo One Europe purple/IMAGE.ccd",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/run/media/fn/DEMO1_5/ob.exe",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/King's Field (USA)/King's Field (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/Jumping Flash! (USA)/Jumping Flash! (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/nes/Adventures of Lolo 2 (U).nes",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/nes/Gimmick! (J)(Prototype).nes",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/nes/Adventures of Lolo (U) [!].nes",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/SaGa Frontier 2 (USA).cue",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/n64/Super Mario 64 (U) [!].z64",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen/Gunstar Heroes (U) [!].bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen/TCL.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen/TCL.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/MINIC.EXE",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/n64/Mischief Makers (U) [!].z64",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/psx/Klonoa - Door to Phantomile [U] [SLUS-00585].ccd",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/mednafen_psx_libretro.so",
+      "core_name": "Mednafen PSX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Ristar (UE) [!].gen",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Monster World IV (USA, Europe) (En,Ja) (Virtual Console).bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic/S3DAGE_102.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic/S1NXL.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic/SonicMT.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/TNH.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/TCL.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/MiniSonic1R1.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Good Luck.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic 3 & Knuckles - Master Edition 2 (2.5v).bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic 3 & Knuckles Hard Bosses Edition 2.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic_the_Very_Useful_Engine_(VAdaPEGA)_(SHC2014).bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/s1megahack_ultra.gen",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic 3 & Knuckles Stress Test v1.5.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/S3&K_Master_Edition_2 Extra_Mode.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Thunder Force IV (E) [c][!].gen",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Sonic 2 Master Edition 3 (2.3v).bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/SK ANDKnuckles.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/I_Hog_That_Hate_Hedge.bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Bigs_Fishing_Derby_(flamewing)_(SHC2014).bin",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/gen sms/Thunder Force II (U) [!].gen",
+      "label": "",
+      "core_path": "/home/fn/games/emus/ra/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/fn/games/roms/nes/Gimmick! (J).nes",
+      "label": "",
+      "core_path": "/home/fn/games/ra/cores/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

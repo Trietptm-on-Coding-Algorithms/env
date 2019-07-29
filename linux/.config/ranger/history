@@ -1,0 +1,50 @@
+shell -f mv %f ..
+shell -f mv %f b/
+mkdir projecto
+rename spiral_join_1.png
+rename spiral_join_2.png
+rename spiral_join_3.png
+rename patient_profile.png
+mkdir diagrams
+mkdir infoviz
+mkdir hierarchy
+find im
+mkdir 2016
+find D
+rename comprovativo_submissao.pdf
+rename avo_submissao.pdf
+rename fn_submissao.pdf
+find Do
+find ga
+find w
+rename estilo_livre.pdf
+rmdir
+rm
+mkdir time
+search debug
+find wiki-
+mkdir asdf
+find 
+find i
+edit_file 
+scout 
+AliasCommand 
+search zsh
+search z
+search .zs
+search zs
+search
+find .zshr
+find .z
+e 
+rename 
+!sh
+!bash
+shell 
+shell ctags -R .
+shell
+sh
+delete
+edit 
+delete 
+

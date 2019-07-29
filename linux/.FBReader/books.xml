@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group name="/home/fn/Documents/books/essays/[Joseph_Mitchell]_Up_in_the_Old_Hotel(BookZZ.org).mobi">
+    <option name="BreakType" value="3"/>
+    <option name="IgnoredIndent" value="11"/>
+    <option name="Initialized" value="true"/>
+  </group>
+  <group name="/home/fn/Downloads/Kelly Starrett, J. Starrett, G. Cordoza-Deskbound_ Standing Up to a Sitting World-Victory Belt Publishing (2016).mobi">
+    <option name="BreakType" value="3"/>
+    <option name="IgnoredIndent" value="11"/>
+    <option name="Initialized" value="true"/>
+  </group>
+</config>
